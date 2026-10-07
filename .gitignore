@@ -1,0 +1,12 @@
+# R session files
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+Rplots.pdf
+# MATLAB autosave
+*.asv
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+.Rproj.user
